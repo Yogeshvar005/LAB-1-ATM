@@ -8,8 +8,8 @@ To create ATM System software that will meet the needs of the applicant and help
 to withdraw money,deposit.
 ### UML DIAGRAMS:
 
-## DEVELOPED BY: Yogeshvar M
-## REGISTER NO: 212222230180
+##### DEVELOPED BY: Yogeshvar M
+##### REGISTER NO: 212222230180
 
 #### USE CASE DIAGRAM:
 ![Untitled!Model1!UseCaseDiagram1_3](https://github.com/Yogeshvar005/LAB-1-ATM/assets/113497367/686c6797-a2f9-4fa0-b5da-38da4492a3d3)
