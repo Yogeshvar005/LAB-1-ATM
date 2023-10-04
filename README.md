@@ -6,28 +6,27 @@ System.
 ### PROBLEM STATEMENT:
 To create ATM System software that will meet the needs of the applicant and help them
 to withdraw money,deposit.
+
+### Steps:
+
+ 1. Download Star UML.
+
+ 2. Select Add model and select the model which you are going to draw.
+
+ 3. Draw the diagram.
+
+ 4. Save the diagram successfully.
+
+ 5. Execute it.
+
 ### UML DIAGRAMS:
-
-##### DEVELOPED BY: Yogeshvar M
-##### REGISTER NO: 212222230180
-
-#### USE CASE DIAGRAM:
-![Untitled!Model1!UseCaseDiagram1_3](https://github.com/Yogeshvar005/LAB-1-ATM/assets/113497367/686c6797-a2f9-4fa0-b5da-38da4492a3d3)
-
-
-#### SEQUENCE DIAGRAM:
-![Untitled!Collaboration1!Interaction1!SequenceDiagram1_4](https://github.com/Yogeshvar005/LAB-1-ATM/assets/113497367/01884b66-7590-48e1-9c0e-ec36e7f9a356)
-
-
-#### STATE CHART DIAGRAM:
-![Untitled!StateMachine1!StatechartDiagram1_5](https://github.com/Yogeshvar005/LAB-1-ATM/assets/113497367/7b470ebe-5b07-4d3e-a8b9-b7ef7dc069c0)
-
-#### CLASS DIAGRAM:
-![Model1!ClassDiagram1_1](https://github.com/Yogeshvar005/LAB-1-ATM/assets/113497367/b96fead5-0491-48ca-8d34-bd071e59719c)
-
-#### ACTIVITY DIAGRAM:
-![ActivityDiagram1](https://github.com/Yogeshvar005/LAB-1-ATM/assets/113497367/9a1745bf-3a1e-4fae-8db0-e9d71a874266)
-
+![use case](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/53ae5b2e-0953-4827-ab07-f7c0e4c9d7dd)
+![class](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/f0b9d0f2-7b42-47c9-b79c-aa2b3bc56ecd)
+![package](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/1b07c55f-8fca-4451-8df3-5091789b2518)
+![communication](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/babd7832-651c-4586-bec3-0a8dd3b02466)
+![sequence](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/5508ade5-b637-44f0-8fc3-3af3bc886993)
+![state chart](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/36703082-4504-45bd-80b9-9f469f77956b)
+![activity](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/8248841c-b0f2-4865-b8d9-2dc30353c19e)
 
 
 ### RESULT: 
